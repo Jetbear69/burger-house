@@ -60,10 +60,7 @@ Este proyecto fue desarrollado como parte del curso de Desarrollo de Aplicacione
 Este proyecto está basado en el diseño: [American Food Website Template](https://www.freepik.com/free-psd/american-food-website-app-template_7335301.htm)
 
 ## Autor
-[Erick Oliver Huamán Moriano]
-Estudiante de Desarrollo de Sistemas de Información
-Curso: Desarrollo de Aplicaciones Web
-Instituto Continental
+Erick Oliver Huamán Moriano
 
 ## Licencia
 Este proyecto es solo para fines educativos y de demostración.
